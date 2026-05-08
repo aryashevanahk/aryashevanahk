@@ -22,22 +22,17 @@
 ---
 
 <div align="center">
-  <h2>Let's Connect!</h2>
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Portfolio">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/aryashevanahk">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/aryshv_">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram">
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:aryashk20@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email">
-  </a>
+
+### <h2> <img src = "" width = 50px></picture> Let's Connect!
+
+[![Portfolio](https://skillicons.dev/icons?i=vercel&theme=dark)](#)
+&nbsp;&nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/https://www.linkedin.com/in/aryashevanahk)
+&nbsp;&nbsp;
+[![Instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://instagram.com/aryshv_)
+&nbsp;&nbsp;
+[![Email](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:aryashk20@gmail.com)
+
 </div>
 
 ---
@@ -75,11 +70,10 @@ Hi! I'm <strong>Arya</strong>, an Informatics Engineering student. By day, I bui
     <a href="https://github.com/aryashevanahk">
       <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryashevanahk&theme=react&hide_border=true" alt="GitHub Profile Summary">
       <br>
-      <img width="49%" src="https://github-readme-stats.shion.dev/api?username=aryashevanahk&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="Github Stats">
-      <img width="49%" src="https://streak-stats.demolab.com/?user=aryashevanahk&theme=react&hide_border=false" alt="GitHub Streak">
+      <img width="45%" src="https://github-readme-stats.shion.dev/api?username=aryashevanahk&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="Github Stats">
+      <img width="50%" src="https://streak-stats.demolab.com/?user=aryashevanahk&theme=react&hide_border=false" alt="GitHub Streak"><br>
       <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=aryashevanahk&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
-      <br>
-      <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryashevanahk&theme=react&hide_border=true" alt="Productive Time">
+      <img width="46%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryashevanahk&theme=react&hide_border=true" alt="Productive Time"><br>
     </a>
   </p>
 
