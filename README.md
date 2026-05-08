@@ -60,12 +60,12 @@ Hi! I'm **Arya**, an Informatics Engineering student. By day, I build robust **f
 
 <p align="center">
           <a href="https://github.com/aryashevanahk">
-          <img width="50%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=aryashevanahk&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"alt="Github MUL">
+          <img width="110%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=aryashevanahk&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"alt="Github MUL">
           <img width="49.5%" src="https://streak-stats.demolab.com/?user=aryashevanahk&theme=react&hide_border=false"alt="Arya :: Github Streak">
           <img width="49.5%" src="https://github-readme-stats.shion.dev/api?username=aryashevanahk&theme=react&hide_border=false&include_all_commits=true&count_private=true"alt="Arya :: Github Stats">
           </a>
         </p>
-        
+
 [![Github Trophy](https://github-profile-trophy.vercel.app/?username=aryashevanahk&theme=react&no-frame=false&no-bg=false&margin-w=4)](https://github.com/aryashevanahk)
 
 <picture>
