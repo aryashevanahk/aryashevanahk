@@ -23,7 +23,7 @@
 
 <div align="center">
 
-### <h2> <img src = "" width = 50px></picture> Let's Connect!
+### <h2> <img src = "img/3858448.png" width = 34px></picture> Let's Connect
 
 [![Portfolio](https://skillicons.dev/icons?i=vercel&theme=dark)](#)
 &nbsp;&nbsp;
@@ -38,7 +38,7 @@
 ---
 
 <div align="center">
-  <h2>About me</h2>
+  <h2> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"width=50px>About me</h2>
 </div>
 
 Hi! I'm <strong>Arya</strong>, an Informatics Engineering student. By day, I build robust <strong>full-stack web applications</strong> from pixel-perfect frontends to scalable backends. By night, I dive into <strong>Game Development</strong>, bringing those same engineering principles into creating interactive digital worlds.
@@ -56,7 +56,7 @@ Hi! I'm <strong>Arya</strong>, an Informatics Engineering student. By day, I bui
 ---
 
 <div align="center">
-  <h2>Tech Stack & Tools</h2>
+  <h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>Tech Stack & Tools</h2>
   <div>
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,php,cpp,java,bootstrap,react,nextjs,vite,tailwind,nodejs,express,laravel,mysql,github&theme=dark&perline=9" alt="Tech Stack">
   </div>
@@ -65,7 +65,7 @@ Hi! I'm <strong>Arya</strong>, an Informatics Engineering student. By day, I bui
 ---
 
 <div align="center">
-  <h2>Github Stats</h2>
+  <h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Github Stats</h2>
   <p align="center">
     <a href="https://github.com/aryashevanahk">
       <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryashevanahk&theme=react&hide_border=true" alt="GitHub Profile Summary">
