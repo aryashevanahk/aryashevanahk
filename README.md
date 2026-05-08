@@ -55,10 +55,10 @@ Hi! I'm **Arya**, an Informatics Engineering student. By day, I build robust **f
 ## GitHub Stats
 
 
-![Top Langs-Dark](https://github-readme-stats.shion.dev/api/top-langs/?username=aryashevanahk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com/?user=aryashevanahk&theme=dark&hide_border=false)
-![GitHub stats-White](https://github-readme-stats.shion.dev/api?username=aryashevanahk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=aryashevanahk&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![Top Langs-Dark](https://github-readme-stats.shion.dev/api/top-langs/?username=aryashevanahk&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/aryashevanahk)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=aryashevanahk&theme=react&hide_border=false)](https://github.com/aryashevanahk)
+[![GitHub stats-Dark](https://github-readme-stats.shion.dev/api?username=aryashevanahk&theme=react&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/aryashevanahk)
+[![Github Trophy](https://github-profile-trophy.vercel.app/?username=aryashevanahk&theme=react&no-frame=false&no-bg=false&margin-w=4)](https://github.com/aryashevanahk)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryashevanahk/aryashevanahk/pacman-output/pacman-contribution-graph-dark.svg">
