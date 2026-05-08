@@ -45,6 +45,7 @@ Hi! I'm **Arya**, an Informatics Engineering student. By day, I build robust **f
 - 🛠️ Comfortable across the full stack — from frontend to backend to deployment
 - 💼 Open to internship & collaboration opportunities
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=aryashevanahk&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/aryashevanahk)
 
 ---
 
@@ -60,9 +61,10 @@ Hi! I'm **Arya**, an Informatics Engineering student. By day, I build robust **f
 
 <p align="center">
           <a href="https://github.com/aryashevanahk">
-          <img width="110%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=aryashevanahk&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"alt="Github MUL">
-          <img width="49.5%" src="https://streak-stats.demolab.com/?user=aryashevanahk&theme=react&hide_border=false"alt="Arya :: Github Streak">
-          <img width="49.5%" src="https://github-readme-stats.shion.dev/api?username=aryashevanahk&theme=react&hide_border=false&include_all_commits=true&count_private=true"alt="Arya :: Github Stats">
+          <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryashevanahk&theme=react&hide_border=true" alt="GitHub Profile Summary" />
+          <img width="70%" src="https://github-readme-stats.shion.dev/api?username=aryashevanahk&theme=react&hide_border=false&include_all_commits=true&count_private=true"alt="Github MUL">
+          <img width="57%" src="https://streak-stats.demolab.com/?user=aryashevanahk&theme=react&hide_border=false"alt="Arya :: Github Streak">
+          <img width="45%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=aryashevanahk&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"alt="Arya :: Github Stats">
           </a>
         </p>
 
