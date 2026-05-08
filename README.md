@@ -25,9 +25,9 @@
 
 ### <h2> <img src = "img/3858448.png" width = 34px></picture> Let's Connect
 
-[![Portfolio](https://skillicons.dev/icons?i=vercel&theme=dark)](#)
+[![Portfolio](https://skillicons.dev/icons?i=vercel&theme=dark)](https://aryashevanahk.github.io/)
 &nbsp;&nbsp;
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/https://www.linkedin.com/in/aryashevanahk)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/aryashevanahk)
 &nbsp;&nbsp;
 [![Instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://instagram.com/aryshv_)
 &nbsp;&nbsp;
@@ -68,7 +68,7 @@ Hi! I'm <strong>Arya</strong>, an Informatics Engineering student. By day, I bui
   <h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Github Stats</h2>
   <p align="center">
     <a href="https://github.com/aryashevanahk">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryashevanahk&theme=react&hide_border=true" alt="GitHub Profile Summary">
+      <img width="95.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryashevanahk&theme=react&hide_border=true" alt="GitHub Profile Summary">
       <br>
       <img width="45%" src="https://github-readme-stats.shion.dev/api?username=aryashevanahk&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="Github Stats">
       <img width="50%" src="https://streak-stats.demolab.com/?user=aryashevanahk&theme=react&hide_border=false" alt="GitHub Streak"><br>
@@ -91,6 +91,43 @@ Hi! I'm <strong>Arya</strong>, an Informatics Engineering student. By day, I bui
 ---
 
 <div align="center">
-  <h2>Hobby</h2>
+  <h2>Beyond Coding</h2>
+
+ **Side Hustle:** Game streamer & YouTube content creator.
+ **Sports:** Love playing basketball.
+
+<h2>Content Creation Tech Stack </h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ae,ai,ps,pr" />
+  </a>
+</p>
+
+<h2>🕹️ Where I Game</h2>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+     <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" />
+      <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" />
+       <img src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://tako.id/LoazGM">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
+      <a href="https://www.youtube.com/@loazgm20">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+      <a href="https://instagram.com/loazgm_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</p>
+
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2h6NDc0cHI5b205c3J2ZDRwNWV2ZnNzaHQxb2Z5MXF4Z2hsb3c0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/keu4ui2Q37H5EPdD3t/giphy.gif" width="60%" alt="Hobby GIF">
+</div>
+
+<br clear="both">
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
