@@ -62,9 +62,10 @@ Hi! I'm **Arya**, an Informatics Engineering student. By day, I build robust **f
 <p align="center">
           <a href="https://github.com/aryashevanahk">
           <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryashevanahk&theme=react&hide_border=true" alt="GitHub Profile Summary" />
-          <img width="70%" src="https://github-readme-stats.shion.dev/api?username=aryashevanahk&theme=react&hide_border=false&include_all_commits=true&count_private=true"alt="Github MUL">
-          <img width="57%" src="https://streak-stats.demolab.com/?user=aryashevanahk&theme=react&hide_border=false"alt="Arya :: Github Streak">
-          <img width="45%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=aryashevanahk&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"alt="Arya :: Github Stats">
+          <img width="50%" src="https://github-readme-stats.shion.dev/api?username=aryashevanahk&theme=react&hide_border=false&include_all_commits=true&count_private=true"alt="Github Stats">
+          <img width="37%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryashevanahk&theme=react&hide_border=true" />
+          <img width="54%" src="https://streak-stats.demolab.com/?user=aryashevanahk&theme=react&hide_border=false"alt="Arya :: Github Streak">
+          <img width="39%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=aryashevanahk&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"alt="Arya :: Github Stats">
           </a>
         </p>
 
