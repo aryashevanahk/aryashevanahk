@@ -88,8 +88,8 @@ Hi! I'm <strong>Arya</strong>, an Informatics Engineering student. By day, I bui
   <h2>
     <a href="https://github.com/aryashevanahk">
       <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" alt="Stats GIF">
-      Github Stats
     </a>
+    Github Stats
   </h2>
   
   <a href="https://github.com/aryashevanahk">
