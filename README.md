@@ -77,7 +77,7 @@ Hi! I'm <strong>Arya</strong>, an Informatics Engineering student. By day, I bui
   </h2>
   <div>
     <a href="https://github.com/aryashevanahk">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,php,cpp,java,bootstrap,react,nextjs,vite,tailwind,nodejs,express,laravel,mysql,github&theme=dark&perline=9" alt="Tech Stack">
+      <img src="https://skillicons.dev/icons?i=html,css,js,php,py,ts,cpp,java,bootstrap,react,nextjs,vite,tailwind,nodejs,laravel,mysql,github&theme=dark&perline=9" alt="Tech Stack">
     </a>
   </div>
 </div>
@@ -100,11 +100,6 @@ Hi! I'm <strong>Arya</strong>, an Informatics Engineering student. By day, I bui
     <br><br>
     <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=aryashevanahk&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
     <img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryashevanahk&theme=react&hide_border=true" alt="Productive Time">
-    <br><br>
-  </a>
-
-  <a href="https://github.com/aryashevanahk">
-    <img src="https://github-profile-trophy.vercel.app/?username=aryashevanahk&theme=react&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophy">
   </a>
   <br><br>
 
@@ -124,7 +119,7 @@ Hi! I'm <strong>Arya</strong>, an Informatics Engineering student. By day, I bui
 
   <p>
     <strong>Side Hustle:</strong> Game streamer & YouTube content creator.<br>
-    <strong>Sports:</strong> Love playing basketball.
+    <strong>Sports:</strong> Love playing basketball and running.
   </p>
 
   <h2>Content Creation Tech Stack</h2>
