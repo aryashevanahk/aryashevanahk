@@ -5,12 +5,12 @@
 ---
 
 🎓 **Who I am:**  
-A 20-year-old Informatics Engineering student with a strong passion for full-stack web and mobile application development. I specialize in designing, building, and deploying end-to-end applications with meticulous quality standards and clean architectural logic.
+A 20-year-old Informatics Engineering student with a strong passion for full-stack web and mobile application development. I specialize in designing, building, and deploying end-to-end applications with meticulous quality standards and clean architectural logic.<br>
 <a href="https://github.com/aryashevanahk">
 <img src="https://img.shields.io/badge/status-student-4ade80?style=flat-square" alt="Status"></a>
 
 🎮 **Beyond the Code:**  
-Bridging technical logic with high creativity when I'm not developing apps, you can catch me creating content and gaming live on my YouTube channel, 🔴**[LoazGaming](https://youtube.com/@loazgm20)**.
+Bridging technical logic with high creativity when I'm not developing apps, you can catch me creating content and gaming live on my YouTube channel, 🔴 **[LoazGaming](https://youtube.com/@loazgm20)**.
 
 🚀 **Current Status:**  
 Actively looking for internship opportunities and professional collaborations in the tech industry. Let's build something amazing together!
