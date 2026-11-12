@@ -3,12 +3,13 @@
     <a href="https://github.com/aryashevanahk">
       <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" alt="Hi">
     </a>
-    Hi there!
+    Hello!
   </h1>
 
   <div>
     <strong>Arya Shevana HK</strong><br>
-    Informatics Engineering Student & Full-Stack Developer, actively seeking <strong>internship opportunities</strong>
+    Informatics Engineering Student & Full-Stack Developer<br>
+    Currently seeking <strong>internship opportunities</strong>
   </div>
   <br>
   <div>
@@ -29,7 +30,7 @@
 
 <div align="center">
 
-## Let's Connect
+## Connect with Me
 
 [![Portfolio](https://skillicons.dev/icons?i=vercel&theme=dark)](https://aryashevanahk.github.io/)
 &nbsp;&nbsp;
@@ -48,15 +49,15 @@
     <a href="https://github.com/aryashevanahk">
       <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" alt="About Me">
     </a> 
-    About me
+    About Me
   </h2>
 </div>
 
-Hi! I'm <strong>Arya</strong>, an Informatics Engineering student. By day, I build robust <strong>full-stack web applications</strong> from pixel-perfect frontends to scalable backends. By night, I dive into <strong>Game Development</strong>, bringing those same engineering principles into creating interactive digital worlds.
+I am <strong>Arya</strong>, an Informatics Engineering student with a focus on <strong>full-stack web development</strong> and <strong>game development</strong>. I build web applications across the frontend and backend, and apply my engineering skills to creating interactive digital experiences.
 
-- 🎓 Informatics Engineering student, bridging web tech with game dev
-- 🛠️ Comfortable across the full stack — from frontend to backend to deployment
-- 💼 Open to internship & collaboration opportunities
+- 🎓 Studying Informatics Engineering, with interests in web and game development
+- 🛠️ Experienced across the development process, from frontend and backend to deployment
+- 💼 Open to internship opportunities and professional collaborations
 
 <br>
 
@@ -73,7 +74,7 @@ Hi! I'm <strong>Arya</strong>, an Informatics Engineering student. By day, I bui
     <a href="https://github.com/aryashevanahk">
       <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" alt="Tech Stack GIF">
     </a> 
-    Tech Stack & Tools
+    Technologies & Tools
   </h2>
   <div>
     <a href="https://github.com/aryashevanahk">
@@ -89,7 +90,7 @@ Hi! I'm <strong>Arya</strong>, an Informatics Engineering student. By day, I bui
     <a href="https://github.com/aryashevanahk">
       <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" alt="Stats GIF">
     </a>
-    Github Stats
+    GitHub Statistics
   </h2>
   
   <a href="https://github.com/aryashevanahk">
@@ -118,18 +119,18 @@ Hi! I'm <strong>Arya</strong>, an Informatics Engineering student. By day, I bui
   <h2>Beyond Coding</h2>
 
   <p>
-    <strong>Side Hustle:</strong> Game streamer & YouTube content creator.<br>
-    <strong>Sports:</strong> Love playing basketball and running.
+    <strong>Content Creation:</strong> Game streaming and YouTube content creation.<br>
+    <strong>Sports:</strong> Basketball and running.
   </p>
 
-  <h2>Content Creation Tech Stack</h2>
+  <h2>Content Creation Tools</h2>
   <p>
     <a href="https://github.com/aryashevanahk">
       <img src="https://skillicons.dev/icons?i=ae,ai,ps,pr" alt="Content Creation Stack">
     </a>
   </p>
 
-  <h2>🕹️ Where I Game</h2>
+  <h2>🕹️ Gaming Platforms</h2>
   <p>
     <a href="https://steamcommunity.com/id/loazgm">
       <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
