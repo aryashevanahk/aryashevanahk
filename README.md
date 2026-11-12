@@ -7,7 +7,7 @@ I am a 20-year-old Informatics Engineering student focusing on full-stack web an
 <p align="left">
   <!-- YouTube Subscriber Badge -->
   <a href="https://www.youtube.com/channel/UC3QPV3CncvrDrDE_zI_cMcw?sub_confirmation=1">
-    <img alt="YouTube Subscribers" title="Subscribe to my YouTube channel" src="https://pokegoplaces.com/github/youtube-stats-badges/subscribers-badge.php"/></a>
+    <img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
   <a href="https://github.com/aryashevanahk?tab=repositories&sort=stargazers">
     <img alt="Total Stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/aryashevanahk?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
@@ -20,3 +20,13 @@ I am a 20-year-old Informatics Engineering student focusing on full-stack web an
   <a href="https://github.com/aryashevanahk">
     <img alt="Profile Views" title="GitHub profile views" src="https://github-view-counter-peach.vercel.app/api/counter"/></a>
 </p>
+
+---
+
+<p align="center">
+  <video src=".github\assets\Transition Stinger.webm" width="100%" autoplay loop muted playsinline></video>
+</p>
+
+<details open>
+  <summary><h2></summary>
+</details>
