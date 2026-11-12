@@ -2,14 +2,11 @@
 
 **`Digital Craftsman (Fullstack & Mobile Dev | Gaming Creator & Streamer)`**
 
-### 👋 Hello, I'm Arya Shevana H.K.
-
-**Digital Craftsman | Informatics Engineering Student & Full-Stack Developer**
-
 ---
 
 🎓 **Who I am:**  
-A 20-year-old Informatics Engineering student with a strong passion for full-stack web and mobile application development. I specialize in designing, building, and deploying end-to-end applications with meticulous quality standards and clean architectural logic.<a href="https://github.com/aryashevanahk">
+A 20-year-old Informatics Engineering student with a strong passion for full-stack web and mobile application development. I specialize in designing, building, and deploying end-to-end applications with meticulous quality standards and clean architectural logic.
+<a href="https://github.com/aryashevanahk">
 <img src="https://img.shields.io/badge/status-student-4ade80?style=flat-square" alt="Status"></a>
 
 🎮 **Beyond the Code:**  
