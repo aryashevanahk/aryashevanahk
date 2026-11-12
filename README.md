@@ -32,7 +32,7 @@ Actively looking for internship opportunities and professional collaborations in
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bGY4aTdyYzN2MWxxZGV3ZHpoMDJvemU3cnl6NjYyM2lpYmNzOHhoMyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/L3gpyxMkb6OGINotu0/giphy.gif" width="100%" alt="Welcome Gif">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bGY4aTdyYzN2MWxxZGV3ZHpoMDJvemU3cnl6NjYyM2lpYmNzOHhoMyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/L3gpyxMkb6OGINotu0/giphy.gif" width="80%" alt="Welcome Gif">
 </div>
 <br>
 
