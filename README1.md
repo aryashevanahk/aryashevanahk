@@ -1,0 +1,173 @@
+<div align="center">
+  <h1>
+    <a href="https://github.com/aryashevanahk">
+      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" alt="Hi">
+    </a>
+    Hello!
+  </h1>
+
+  <div>
+    <strong>Arya Shevana HK</strong><br>
+    Informatics Engineering Student & Full-Stack Developer<br>
+    Currently seeking <strong>internship opportunities</strong>
+  </div>
+  <br>
+  <div>
+    <a href="https://github.com/aryashevanahk">
+      <img src="https://img.shields.io/badge/status-student-4ade80?style=flat-square" alt="Status">
+    </a>
+    <a href="https://github.com/aryashevanahk">
+      <img src="https://img.shields.io/badge/focus-full--stack%20%7C%20game--dev-58A6FF?style=flat-square" alt="Focus">
+    </a>
+  </div>
+  <br>
+  <a href="https://github.com/aryashevanahk">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=717171&center=true&vCenter=true&width=435&lines=Informatics+Engineering+Student;Full-Stack+Developer;Open+To+Internships!" alt="Typing SVG">
+  </a>
+</div>
+
+--- 
+
+<div align="center">
+
+## Connect with Me
+
+[![Portfolio](https://skillicons.dev/icons?i=vercel&theme=dark)](https://aryashevanahk.github.io/)
+&nbsp;&nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/aryashevanahk)
+&nbsp;&nbsp;
+[![Instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://instagram.com/aryshv_)
+&nbsp;&nbsp;
+[![Email](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:aryashk20@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <h2>
+    <a href="https://github.com/aryashevanahk">
+      <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" alt="About Me">
+    </a> 
+    About Me
+  </h2>
+</div>
+
+I am <strong>Arya</strong>, an Informatics Engineering student with a focus on <strong>full-stack web development</strong> and <strong>game development</strong>. I build web applications across the frontend and backend, and apply my engineering skills to creating interactive digital experiences.
+
+- 🎓 Studying Informatics Engineering, with interests in web and game development
+- 🛠️ Experienced across the development process, from frontend and backend to deployment
+- 💼 Open to internship opportunities and professional collaborations
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/aryashevanahk">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=aryashevanahk&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub WidgetBox">
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <h2>
+    <a href="https://github.com/aryashevanahk">
+      <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" alt="Tech Stack GIF">
+    </a> 
+    Technologies & Tools
+  </h2>
+  <div>
+    <a href="https://github.com/aryashevanahk">
+      <img src="https://skillicons.dev/icons?i=html,css,js,php,py,ts,cpp,java,bootstrap,react,nextjs,vite,tailwind,nodejs,laravel,mysql,github&theme=dark&perline=9" alt="Tech Stack">
+    </a>
+  </div>
+</div>
+
+---
+
+<div align="center">
+  <h2>
+    <a href="https://github.com/aryashevanahk">
+      <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" alt="Stats GIF">
+    </a>
+    GitHub Statistics
+  </h2>
+  
+  <a href="https://github.com/aryashevanahk">
+    <img width="95.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryashevanahk&theme=react&hide_border=true" alt="GitHub Profile Summary">
+    <br><br>
+    <img width="45%" src="https://github-readme-stats.shion.dev/api?username=aryashevanahk&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="Github Stats">
+    <img width="50%" src="https://streak-stats.demolab.com/?user=aryashevanahk&theme=react&hide_border=false" alt="GitHub Streak">
+    <br><br>
+    <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=aryashevanahk&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+    <img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryashevanahk&theme=react&hide_border=true" alt="Productive Time">
+  </a>
+  <br><br>
+
+  <a href="https://github.com/aryashevanahk">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryashevanahk/aryashevanahk/pacman-output/pacman-contribution-graph-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryashevanahk/aryashevanahk/pacman-output/pacman-contribution-graph.svg">
+      <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aryashevanahk/aryashevanahk/pacman-output/pacman-contribution-graph.svg">
+    </picture>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <h2>Beyond Coding</h2>
+
+  <p>
+    <strong>Content Creation:</strong> Game streaming and YouTube content creation.<br>
+    <strong>Sports:</strong> Basketball and running.
+  </p>
+
+  <h2>Content Creation Tools</h2>
+  <p>
+    <a href="https://github.com/aryashevanahk">
+      <img src="https://skillicons.dev/icons?i=ae,ai,ps,pr" alt="Content Creation Stack">
+    </a>
+  </p>
+
+  <h2>🕹️ Gaming Platforms</h2>
+  <p>
+    <a href="https://steamcommunity.com/id/loazgm">
+      <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
+    </a>
+    <a href="https://github.com/aryashevanahk">
+      <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" alt="Epic Games">
+    </a>
+    <a href="https://github.com/aryashevanahk">
+      <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PlayStation">
+    </a>
+    <a href="https://github.com/aryashevanahk">
+      <img src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white" alt="Nintendo Switch">
+    </a>
+  </p>
+
+  <p>
+    <a href="https://tako.id/LoazGM">
+      <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
+    </a>
+    <a href="https://www.youtube.com/@loazgm20">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+    </a>
+    <a href="https://instagram.com/loazgm_">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    </a>
+  </p>
+  
+  <br>
+  <a href="https://github.com/aryashevanahk">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2h6NDc0cHI5b205c3J2ZDRwNWV2ZnNzaHQxb2Z5MXF4Z2hsb3c0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/keu4ui2Q37H5EPdD3t/giphy.gif" width="60%" alt="Hobby GIF">
+  </a>
+</div>
+
+<br clear="both">
+
+<div>
+  <a href="https://github.com/aryashevanahk">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=gradient" alt="Footer Wave">
+  </a>
+</div>
