@@ -29,11 +29,26 @@ I am a 20-year-old Informatics Engineering student focusing on full-stack web an
   <summary><h2><a href="https://github.com/aryashevanahk">
       <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" alt="Tech Stack GIF">
     </a> Languages & Tools</h2></summary>
-   <div>
-    <a href="https://github.com/aryashevanahk">
-      <img src="https://skillicons.dev/icons?i=html,css,js,php,py,ts,cpp,java,bootstrap,react,nextjs,vite,tailwind,nodejs,laravel,mysql,github&theme=dark&perline=9" alt="Tech Stack">
-    </a>
-  </div>
+
+#### Programming and Markup Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,py,cpp,gradle,kotlin,postgres,sqlite,java&theme=dark" alt="Languages" />
+</p>
+
+#### Frameworks and Libraries
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,laravel,tailwind,bootstrap,npm,prisma,vite&theme=dark" alt="Frameworks and Libraries" />
+</p>
+
+#### Databases and Cloud Hosting
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,vercel,git&theme=dark" alt="Databases and Tools" />
+</p>
+
+#### Software and Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma,postman,windows,discord,powershell,github&theme=dark" alt="Software and Tools" />
+</p>
 </details>
 
 <details>
@@ -97,9 +112,16 @@ I am a 20-year-old Informatics Engineering student focusing on full-stack web an
       <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
     </a>
     <a href="https://www.youtube.com/channel/UC3QPV3CncvrDrDE_zI_cMcw?sub_confirmation=1">
-    <img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+    <img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>
+    </a>
     <a href="https://instagram.com/loazgm_">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
   </p>
+</div>
+
+<div align="center">
+  <a href="https://github.com/aryashevanahk">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=aryashevanahk&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub WidgetBox">
+  </a>
 </div>
