@@ -2,7 +2,21 @@
 
 **`Digital Craftsman (Fullstack & Mobile Dev | Gaming Creator & Streamer)`**
 
-I am a 20-year-old Informatics Engineering student focusing on full-stack web and mobile application development. I have hands-on experience designing, building, and deploying end-to-end applications with meticulous quality standards. I am accustomed to strong technical logic with high creativity, which I also channel through my work as a content creator and gaming livestreamer "[LoazGaming](https://youtube.com/@loazgm20)". Currently open to internship opportunities and professional collaborations in the tech industry.
+### 👋 Hello, I'm Arya Shevana H.K.
+
+**Digital Craftsman | Informatics Engineering Student & Full-Stack Developer**
+
+---
+
+🎓 **Who I am:**  
+A 20-year-old Informatics Engineering student with a strong passion for full-stack web and mobile application development. I specialize in designing, building, and deploying end-to-end applications with meticulous quality standards and clean architectural logic.<a href="https://github.com/aryashevanahk">
+<img src="https://img.shields.io/badge/status-student-4ade80?style=flat-square" alt="Status"></a>
+
+🎮 **Beyond the Code:**  
+Bridging technical logic with high creativity when I'm not developing apps, you can catch me creating content and gaming live on my YouTube channel, 🔴**[LoazGaming](https://youtube.com/@loazgm20)**.
+
+🚀 **Current Status:**  
+Actively looking for internship opportunities and professional collaborations in the tech industry. Let's build something amazing together!
 
 <p align="left">
   <a href="https://www.youtube.com/channel/UC3QPV3CncvrDrDE_zI_cMcw?sub_confirmation=1">
@@ -114,8 +128,8 @@ I am a 20-year-old Informatics Engineering student focusing on full-stack web an
     <a href="https://www.youtube.com/channel/UC3QPV3CncvrDrDE_zI_cMcw?sub_confirmation=1">
     <img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>
     </a>
-    <a href="https://instagram.com/loazgm_">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <a href="https://www.threads.com/@aryshv_">
+      <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Instagram">
     </a>
   </p>
 </div>
