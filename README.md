@@ -18,7 +18,7 @@ I am a 20-year-old Informatics Engineering student focusing on full-stack web an
 
   <!-- Vercel Profile Views Badge -->
   <a href="https://github.com/aryashevanahk">
-    <img alt="Profile Views" title="GitHub profile views" src="https://github-view-counter-peach.vercel.app/api/counter"/></a>
+    <img alt="Profile Views" title="GitHub profile views" src="https://github-view-counter-peach.vercel.app/api/counter.js"/></a>
 </p>
 
 ---
