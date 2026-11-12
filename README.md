@@ -24,7 +24,7 @@ I am a 20-year-old Informatics Engineering student focusing on full-stack web an
 ---
 
 <p align="center">
-  <video src=".github\assets\Transition Stinger.webm" width="100%" autoplay loop muted playsinline></video>
+  <video src="https://raw.githubusercontent.com/aryashevanahk/aryashevanahk/main/.github/assets/Transition%20Stinger.webm" width="100%" autoplay loop muted playsinline></video>
 </p>
 
 <details open>
