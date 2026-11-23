@@ -5,7 +5,7 @@
 ---
 
 🎓 **Who I am:**  
-A 20-year-old Informatics Engineering student with a strong passion for full-stack web and mobile application development. I specialize in designing, building, and deploying end-to-end applications with meticulous quality standards and clean architectural logic.<br>
+A Informatics Engineering student with a strong passion for full-stack web and mobile application development. I specialize in designing, building, and deploying end-to-end applications with meticulous quality standards and clean architectural logic.<br>
 <a href="https://github.com/aryashevanahk">
 <img src="https://img.shields.io/badge/status-student-4ade80?style=flat-square" alt="Status"></a>
 
